@@ -72,3 +72,4 @@ Praticar o uso dos principais métodos HTTP e explorar os conceitos de requisiç
 
 - Suba suas respostas e prints das telas no seu repositório GitHub em uma pasta chamada `exercicios-http-postman`.
 - Inclua um arquivo `README.md` descrevendo cada exercício e os passos realizados no Postman.
+- Lembrando que toda a atividade de portfólio é considerada parte da avaliação da disciplina.
